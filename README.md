@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am **José María Luna Romera**, PhD. in computer engineering from the University of Seville. I am currently a professor in the Department of Computer Systems Languages at the **University of Seville**. I teach in the different computer degrees in the subjects of fundamentals of programming and in Operating Systems.
-I work with **machine learning** technologies within the [Minerva Research Group](http://grupos.us.es/minerva), developing new techniques, as well as their application to real problems in different research projects. I have numerous research articles in different impact journals, as well as the publication of my work in national and international conferences.
+I work with **machine learning** technologies within the <a href="http://grupos.us.es/minerva" target="_blank">Minerva Research Group</a>, developing new techniques, as well as their application to real problems in different research projects. I have numerous research articles in different impact journals, as well as the publication of my work in national and international conferences.
 
 If you want to collaborate with me or have any questions, do not hesitate to contact me.
 
