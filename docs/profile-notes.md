@@ -29,6 +29,7 @@ Portada en inglés, como el perfil anterior, con traducción completa al españo
 - Las cinco publicaciones cubren trabajo reciente, predicción, salud y el artículo que conecta con Chi-Index. Se conserva el título bibliográfico en ambos idiomas.
 - Se usa la web institucional verificada. El dominio josemarialuna.com figuraba en GitHub, pero su contenido no se pudo verificar en la consulta web.
 - El tono personal es una propuesta editorial basada en el encargo; no añade aficiones, premios ni compromisos de disponibilidad.
+- Se incorpora el interés explícito del autor en trabajar con datos de música y videojuegos, como una dirección que desea explorar y una invitación a colaborar, sin presentarla como investigación ya publicada.
 
 ## Mantenimiento
 

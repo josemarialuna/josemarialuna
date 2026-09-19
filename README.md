@@ -63,6 +63,8 @@ Research has also taken me to the **University of Granada** and **Arizona State 
 
 ## Let's talk
 
+I'm especially keen to explore **machine learning with music and video game data**. This is a direction I'd love to develop, and I'm interested in connecting with people working in these areas.
+
 Working on a related research question, trying one of my tools, or looking for a collaboration? I'd love to hear what you're building. Questions and ideas are welcome, even if they're still taking shape.
 
 **[Say hello → jmluna@us.es](mailto:jmluna@us.es)**

@@ -63,6 +63,8 @@ La investigación también me ha llevado a realizar estancias en la **Universida
 
 ## Hablamos
 
+Tengo especial interés en explorar el **aprendizaje automático con datos de música y videojuegos**. Es una línea que me gustaría desarrollar, y me encantará conectar con personas que trabajen en estos ámbitos.
+
 ¿Investigas en algo parecido, estás probando una de mis herramientas o tienes una propuesta de colaboración? Me encantará saber qué estás construyendo. Las dudas y las ideas a medio hacer también son bienvenidas.
 
 **[Escríbeme → jmluna@us.es](mailto:jmluna@us.es)**
