@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">José María Luna Romera</title>
+  <desc id="desc">Machine Learning, Big Data, Universidad de Sevilla. Abstract clusters and a time series connect research with code.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#101e30"/>
+      <stop offset="1" stop-color="#172f40"/>
+    </linearGradient>
+    <linearGradient id="signal" x2="1">
+      <stop stop-color="#67e8c2"/>
+      <stop offset="1" stop-color="#a5b4fc"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#b3c9db" opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+  <path d="M64 59h40" stroke="#67e8c2" stroke-width="4" stroke-linecap="round"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="112" fill="#a9c7d8" font-size="17" letter-spacing="3">MACHINE LEARNING · BIG DATA</text>
+    <text x="60" y="180" fill="#f2f6fc" font-size="62" font-weight="700" letter-spacing="-2">José María Luna Romera</text>
+    <text x="64" y="228" fill="#c3d5e2" font-size="22">Research. Code. Share.</text>
+    <text x="64" y="294" fill="#9fb8cb" font-size="17">UNIVERSIDAD DE SEVILLA</text>
+  </g>
+  <g fill="none" stroke="#67e8c2" stroke-width="1.5" opacity=".25">
+    <path d="M913 72l53 39 61-46 51 56-40 49-72-59-60 51 7-90 114-7 11 105 69 17-29-66"/>
+    <circle cx="966" cy="111" r="85" stroke-dasharray="3 9"/>
+  </g>
+  <g fill="#67e8c2">
+    <circle cx="913" cy="72" r="5"/><circle cx="966" cy="111" r="8"/>
+    <circle cx="906" cy="162" r="4"/><circle cx="1027" cy="65" r="5"/>
+  </g>
+  <g fill="#a5b4fc">
+    <circle cx="1078" cy="121" r="7"/><circle cx="1038" cy="170" r="5"/>
+    <circle cx="1107" cy="187" r="4"/>
+  </g>
+  <path d="M857 258h278" fill="none" stroke="#6d8b9d" opacity=".3"/>
+  <path d="M857 258l23-7 20 16 21-38 24 14 22-44 23 27 24-3 24 31 22-17 25 15 26-42 24 11" fill="none" stroke="url(#signal)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1135" cy="221" r="5" fill="#a5b4fc"/>
+</svg>
